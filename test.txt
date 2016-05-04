@@ -4,4 +4,6 @@ The third line.
 The fourth line.
 A fifth line.
 A sixth line.
+A seventh line from GitHub Desktop.
+
 
