@@ -3,4 +3,5 @@ A second line.
 A change from the GitHub Desktop
 Added a third/forth line.
 A 5th line.
-Added a 6th line.
+A 6th Line.
+A 7th Line.
