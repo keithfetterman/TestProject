@@ -1,1 +1,2 @@
 First line in project1-test.txt
+Added a line to the master branch
