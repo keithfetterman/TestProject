@@ -8,14 +8,13 @@ Added a 3rd line in the TestProject1-Keith branch
 Added a 4th line to the master branch
 Added a 4th line in the TestProject1-Keith branch
 Added a 5th line to the master branch
-Added a 5th line in the TestProject1-Keith branch
 Added a 6th line in the master branch using SourceTree
 Added a 7th line in the master branch
-Added a 8th line in the master branch using SourceTree
+Added a 8th line in the master branch using SourceTree - modified via TestBranchMac2 branch
 Added a 9th line in the master branch using GitHub Desktop
 Adding a 10th line in the TestBranch2019-03 branch using GitHub Desktop
 Adding a 11th line in the master branch using GitHub Desktop
 Adding a 12th line in the master branch using SourceTree
 Adding a 13th line in the TestBranch2.1 branch using GitHub Desktop - modified 1
 Adding a 13th line in the master branch using GitHub Desktop - modified 2
-
+Added a 14th line in the TestBranchMac2 branch
