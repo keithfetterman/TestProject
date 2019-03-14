@@ -2,3 +2,4 @@ First line in project1-test3.txt
 Second line in project1-test3.txt in master branch
 2nd line in project1-test3.txt
 3rd line in project1-test3.txt - TestBranchMac2
+3rd line in project1-test3.txt - branch TestBranchMac2.1
